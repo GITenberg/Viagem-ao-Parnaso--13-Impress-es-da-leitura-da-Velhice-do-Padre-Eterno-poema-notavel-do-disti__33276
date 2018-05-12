@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36305'
     url: http://www.gutenberg.org/2009/agents/36305
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33276#Viagem-ao-Parnaso--13-Impress-es-da-leitura-da-Velhice-do-Padre-Eterno-poema-notavel-do-disti_
 gutenberg_issued: '2010-07-27'
 gutenberg_type: Text
 identifiers:
