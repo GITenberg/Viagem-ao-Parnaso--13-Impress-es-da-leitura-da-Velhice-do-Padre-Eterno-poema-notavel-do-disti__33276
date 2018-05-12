@@ -1,0 +1,26 @@
+_repo: Viagem-ao-Parnaso--13-Impress-es-da-leitura-da-Velhice-do-Padre-Eterno-poema-notavel-do-disti__33276
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frei Ugedio
+    alias: Ugedio, Frei
+    gutenberg_agent_id: '36305'
+    url: http://www.gutenberg.org/2009/agents/36305
+description: ''
+gutenberg_issued: '2010-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33276'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Junqueiro, Guerra, 1850-1923. Velhice do Padre Eterno'
+- !lcc 'PQ'
+title: "Viagem ao Parnaso\r\nImpressões da leitura da Velhice do Padre Eterno, poema\
+  \ notavel do distincto poeta Guerra Junqueiro"
+url: http://www.gutenberg.org/ebooks/33276
